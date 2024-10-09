@@ -1,18 +1,18 @@
 This is a collection of excel projects that feature:
 
-Data cleaning
-Advanced formulas
+Data cleaning. 
+Advanced formulas. 
 Essential Functions:
-  VLOOKUP Function
-  IF Function
-  SUMIFS Function
-  Average Function
-  CONCATENATE Function
-  LEN Function
-  ROUND Function
-Pivot Tables
-Dashboards
+  VLOOKUP Function,
+  IF Function,
+  SUMIFS Function,
+  Average Function,
+  CONCATENATE Function,
+  LEN Function,
+  ROUND Function,
+Pivot Tables.
+Dashboards.
 
 To view projects:
-  Click on project name
+  Click on project name,
   Click "View Raw"
