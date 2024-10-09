@@ -12,3 +12,7 @@ Essential Functions:
   ROUND Function
 Pivot Tables
 Dashboards
+
+To view projects:
+  Click on project name
+  Click "View Raw"
